@@ -3,22 +3,42 @@ repo: scaling-robot
 user-agent: keywordnew
 
 sites:
+  - name: City of Vancouver
+    url: https://vancouver.ca/home-property-development/water-treatment.aspx
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/water.png
   - name: BC Hydro
     url: https://www.bchydro.com/
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/power-1.png
+  - name: Telus
+    url: https://www.telus.com/en
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/communication.png
+  - name: Vancouver General Hospital
+    url: https://www.vch.ca/en/location/vancouver-general-hospital
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/hospital.png
+  - name: Vancouver Police Department
+    url: https://vpd.ca/report-a-crime/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/emergency.png
   - name: Translink
     url: https://www.translink.ca/
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/transportation-1.png
-  
+  - name: Vancity
+    url: https://www.vancity.com/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/payment.png
+
 
 status-website:
   baseUrl: /scaling-robot
   name: 'Neighbourhood Cyber'
   logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
   favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
-  introTitle: 'Vancouver BC 🇨🇦'
+  introTitle: 'Vancouver BC 🇨🇦 watchtower'
   introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://github.com/keywordnew/scaling-robot) to "Watch" and get notified'
   navbar:
     - title: Status
