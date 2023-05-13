@@ -7,6 +7,11 @@ sites:
     url: https://www.bchydro.com/
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/power.png
+  - name: Translink
+    url: https://www.translink.ca/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/transportation.png
+  
 
 status-website:
   baseUrl: /scaling-robot
