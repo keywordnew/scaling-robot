@@ -6,11 +6,11 @@ sites:
   - name: BC Hydro
     url: https://www.bchydro.com/
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/power.png
+    icon: https://nilspace.xyz/content/images/2023/05/power-1.png
   - name: Translink
     url: https://www.translink.ca/
     method: GET
-    icon: https://nilspace.xyz/content/images/2023/05/transportation.png
+    icon: https://nilspace.xyz/content/images/2023/05/transportation-1.png
   
 
 status-website:
@@ -19,11 +19,11 @@ status-website:
   logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
   favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
   introTitle: 'Vancouver BC 🇨🇦'
-  introMessage: 'check if core infrastructure may be down, or use [GitHub ↗️](https://github.com/keywordnew/scaling-robot) to "Watch" and get notified'
+  introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://github.com/keywordnew/scaling-robot) to "Watch" and get notified'
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Neighbourhoods (upcoming)
-      href: /
+    - title: Neighbourhoods
+      href: https://github.com/$OWNER?tab=repositories&q=watchtower
