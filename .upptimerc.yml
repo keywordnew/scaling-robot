@@ -4,15 +4,15 @@ user-agent: keywordnew
 
 sites:
   - name: BC Hydro
-    url: https://www.google.com
+    url: https://www.bchydro.com/
     method: GET
-    logoUrl: https://nilspace.xyz/content/images/2023/05/power.svg
+    logoUrl: https://nilspace.xyz/content/images/2023/05/power.png
 
 status-website:
   baseUrl: /scaling-robot
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: 'Vancouver BC 🇨🇦'
-  introTitle: core services status
+  name: 'Neighbourhood Cyber 🔮'
+  introTitle: 'Vancouver BC 🇨🇦'
+  introMessage: 'check if core infrastructure may be down, or use [GitHub ↗️](https://github.com/HelSec/uptime) to "Watch" and get notified'
   navbar:
     - title: Status
       href: /
