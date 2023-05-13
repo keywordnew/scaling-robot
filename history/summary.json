@@ -2,7 +2,7 @@
   {
     "name": "BC Hydro",
     "url": "https://www.bchydro.com/",
-    "icon": "https://nilspace.xyz/content/images/2023/05/power.png",
+    "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "bc-hydro",
     "status": "up",
     "uptime": "100.00%",
@@ -20,7 +20,7 @@
   {
     "name": "Translink",
     "url": "https://www.translink.ca/",
-    "icon": "https://nilspace.xyz/content/images/2023/05/transportation.png",
+    "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "translink",
     "status": "up",
     "uptime": "100.00%",
