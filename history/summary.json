@@ -1,8 +1,8 @@
 [
   {
     "name": "BC Hydro",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "url": "https://www.bchydro.com/",
+    "icon": "https://nilspace.xyz/content/images/2023/05/power.png",
     "slug": "bc-hydro",
     "status": "up",
     "uptime": "100.00%",
@@ -15,6 +15,24 @@
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Translink",
+    "url": "https://www.translink.ca/",
+    "icon": "https://nilspace.xyz/content/images/2023/05/transportation.png",
+    "slug": "translink",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 68,
+    "timeDay": 68,
+    "timeWeek": 68,
+    "timeMonth": 68,
+    "timeYear": 68,
     "dailyMinutesDown": {}
   }
 ]
